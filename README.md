@@ -5,6 +5,8 @@
 #### I studied Information Systems at [PUC-RS](http://www.pucrs.br/) 
 #### Graduated in 2020/01 💥
 
+### You can read more about me and my programming experiences on [My Medium Page](https://medium.com/@augusto.klaic) 
+
 ### 🧐 Interests:
   * Backend 👨‍💻
   * Video Games 🎮
