@@ -19,4 +19,4 @@
  
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/augustosopelsa.svg?style=social&label=Follow%20%40augustosopelsa)](https://twitter.com/augustosopelsa)
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=linkedin.com/in/augusto-sopelsa-klaic-a98479bb/)](https://www.linkedin.com/in/augusto-sopelsa-klaic-a98479bb/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=linkedin.com/in/augusto-sopelsa-klaic-a98479bb/)](https://www.linkedin.com/in/augusto-sopelsa-klaic)
